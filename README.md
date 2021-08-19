@@ -1,6 +1,7 @@
 # Pyhon-Code
 自学python笔记
-# 带着二哈去旅行丶:ZZQ
+
+# 带着二哈去旅行丶:ZZ
 # 生成时间：2021/8/9 15:41
 import os
 filename = 'student.txt'      # 定义文件名
